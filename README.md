@@ -1,7 +1,6 @@
 # Docker images
 
-To see example of usage go to an image directory. 
-To build image go to image directory and run ```docker-compose build ```. 
+To build an image run ```docker-compose build ``` in image directory. 
 	 
 1. #### cassandra-waitable 
-Image for a cassandra node which supports waiting for completing bootstrap of an other node.
+Image for a cassandra node which supports waiting for completing bootstrap of an other node. See cassandra-waitable readme with example of usage.
