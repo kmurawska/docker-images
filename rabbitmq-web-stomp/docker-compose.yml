@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+
+  rabbitmq-web-stomp:
+    build: .
+    image: rabbitmq-web-stomp
